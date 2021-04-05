@@ -63,7 +63,7 @@ for r in raster_list:
 
 report_file=os.path.join(output_dir,'report.txt')
 e=open(report_file,'w')
-e.write("Code is generated")
+e.write("required files are generated")
 errorflag=0
 i=0                
 """                
